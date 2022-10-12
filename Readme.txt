@@ -1,1 +1,1 @@
-Sample code 
+Website for Grito using bootstrap templates
