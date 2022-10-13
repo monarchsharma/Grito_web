@@ -85,7 +85,7 @@ section {
 }
 
 .section-header p span {
-  color: var(--color-primary);
+      color: #4c9c80;
 }
 
 /*--------------------------------------------------------------
